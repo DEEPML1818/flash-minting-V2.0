@@ -72,6 +72,11 @@
     "typechain": "hardhat typechain"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^3.4.0"
+    "@aave/core-v3": "^1.13.1",
+    "@openzeppelin/contracts": "^3.4.2",
+    "@pangolindex/exchange-contracts": "^2.1.8",
+    "@traderjoe-xyz/core": "^2.4.6",
+    "@uniswap/v3-core": "^1.0.1",
+    "@uniswap/v3-periphery": "^1.4.3"
   }
 }

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.7.4;
+pragma solidity >=0.6.6 <0.9.0;
 
 interface IFlashMinter {
     function onFlashMint(
